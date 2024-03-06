@@ -1,7 +1,9 @@
 Video Content Management Web Application
 
 This web application is designed to manage video content streaming. It consists of three main modules: a third-party integration module, an administrative module, and a public module. Each module serves a specific purpose in managing the video content service.
+
 Features
+
 Third Party Integration Module
 
     Automates video content entry.
