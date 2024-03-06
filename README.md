@@ -4,7 +4,7 @@ This web application is designed to manage video content streaming. It consists 
 
 Features
 
-Third Party Integration Module
+Integration Module
 
     Automates video content entry.
     Implements CRUD operations for retrieving and editing video content.
